@@ -11,11 +11,11 @@ public class InterfaceData {
         JFrame janela = new JFrame("Data do sistema");
         janela.setSize(400,300);
         janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        // Usando FlowLayout (padrão)
-        janela.setLayout(new BoxLayout(janela.getContentPane(), BoxLayout.Y_AXIS)); // vertical
+        
+        janela.setLayout(new BoxLayout(janela.getContentPane(), BoxLayout.Y_AXIS)); 
 
         JLabel data = new JLabel("Data e Hora Atual do Sistema" , SwingConstants.CENTER);
-        data.setAlignmentX(JLabel.CENTER_ALIGNMENT); // centraliza no eixo X
+        data.setAlignmentX(JLabel.CENTER_ALIGNMENT); 
 
         JButton botao = new JButton("Clique Aqui");
         botao.setAlignmentX(JButton.CENTER_ALIGNMENT);
