@@ -1,9 +1,10 @@
 package Aula1;
 
+
 import java.util.Locale;
 
 public class IdiomaSistema {
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
 
         Locale idioma = Locale.getDefault();
 
