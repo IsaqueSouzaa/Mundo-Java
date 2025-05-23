@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 
 public class InterfaceGrafica {
     public static void main(String[] args){
-// Criamos uma janela de app e demos um titulo
+// Criamos uma janela de app e damos um titulo
         JFrame janela = new JFrame("Minha primeira Janela");
 //Definimos o tamanho da janela
         janela.setSize(400,300);
