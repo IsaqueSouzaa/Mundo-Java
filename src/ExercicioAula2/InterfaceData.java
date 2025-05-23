@@ -1,4 +1,4 @@
-package Exercicio1;
+package ExercicioAula2;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

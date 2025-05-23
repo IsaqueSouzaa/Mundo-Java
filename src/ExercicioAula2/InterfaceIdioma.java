@@ -1,7 +1,6 @@
-package Exercicio1;
+package ExercicioAula2;
 
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Locale;
